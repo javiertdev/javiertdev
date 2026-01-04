@@ -1,7 +1,5 @@
 # ¡Holaaa! Soy Luis Cortés (@javiert.dev)
 
-## 🧑‍💻 Desarrollador Web Full-Stack Senior
-
 Te sorprenderías la cantidad de horas que paso programando, te invito a revisar mis proyectos públicos, tengo aún más proyectos ocultos (aún falta pulirlos).  
 ¡Estoy abierto a convesaciones sobre proyectos y/o desafíos a otro nivel!
 
